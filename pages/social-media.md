@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 3
   key: socialmedia
   parent: home
-  title: social Media
+  title: Social Media
 ---
 **اضافة روابط مواقع التواصل الاجتماعي** 
 
