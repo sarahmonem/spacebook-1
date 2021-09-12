@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 البانر الرئيسى 
 
-![](/static/img/header.png)
+![](/content/images/header.png)
 
 **Header_skin** لتغيير الوان القوائم  , يوجد خيارين : white text للون الابيض و dark text للون الاسود .
 
