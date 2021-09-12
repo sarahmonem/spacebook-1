@@ -3,7 +3,7 @@ title: footer
 date: 2021-09-12T19:00:31.840Z
 permalink: /footer/index.html
 eleventyNavigation:
-  order: 4
+  order: 6
   key: footer
   parent: home
   title: Footer
