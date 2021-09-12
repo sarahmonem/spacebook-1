@@ -1,7 +1,7 @@
 ---
 title: main-menu
 date: 2021-09-12T12:29:20.480Z
-permalink: /main-menu
+permalink: /menu
 eleventyNavigation:
   order: 4
   key: menu
