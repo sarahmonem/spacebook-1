@@ -1,11 +1,12 @@
 ---
-title: Website Options.
+title: Main Colors
 date: Last Modified 
-permalink: /
+permalink: /colors
 eleventyNavigation:
-  key: home
-  order: 0
-  title: Website Options.
+  key: colors
+  order: 1
+  parent: home
+  title: Main Colors.
 ---
 
 **عنوان الموقع والشعار الاساسي**
@@ -15,7 +16,6 @@ eleventyNavigation:
 3- شعار الموقع على تاب المتصفح
 
 ->*Onward...*<-
-
 
 
 

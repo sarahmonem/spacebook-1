@@ -1,21 +1,21 @@
 ---
-title: Website Options.
+title: Contact Info
 date: Last Modified 
-permalink: /
+permalink: /contactinfo
 eleventyNavigation:
-  key: home
-  order: 0
-  title: Website Options.
+  key: contact
+  order: 2
+  parent: home
+  title: Contact Info
 ---
 
-**عنوان الموقع والشعار الاساسي**
+**معلومات التواصل**
 ![](/content/images/logo-siteTitle.png)
 1-من خيار options نجد خيارات الموقع الاساسية
 2- اضافة شعار الموقع 
 3- شعار الموقع على تاب المتصفح
 
 ->*Onward...*<-
-
 
 
 
