@@ -8,3 +8,7 @@ eleventyNavigation:
   title: Pages
 ---
 pages
+
+![](/static/img/pages.png)
+
+add new page
