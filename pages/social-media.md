@@ -1,7 +1,7 @@
 ---
 title: Social Media
 date: 2021-09-12T12:02:43.355Z
-permalink: /socialmedia/index.html
+permalink: /Social-Media
 eleventyNavigation:
   order: 3
   key: socialmedia
