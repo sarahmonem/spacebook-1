@@ -12,11 +12,17 @@ eleventyNavigation:
 
 **معلومات التواصل**
 ![](/content/images/contact-info.png)
-1-من خيار options نجد خيارات الموقع الاساسية
-2- اضافة شعار الموقع 
-3- شعار الموقع على تاب المتصفح
 
-->*Onward...*<-
+
+- phone رقم الهاتف
+- whatsapp phone رقم الواتساب , لربط ايقونة الواتس مع محادثة مباشرة بنفس الرقم 
+- whatsapp hello text رسالة الترحيب 
+- initial whatsapp text رسالة اولية لبدء المحادثة
+- Address_text العنوان
+- Address_map_embed العنوان على الخريطة 
+- Contact_email البريد الالكتروني
+ > تظهر معلومات التواصر في الفوتر عندما يتم اختيار contact info list من عناصر الفوتر
+
 
 
 

@@ -8,13 +8,13 @@ eleventyNavigation:
   parent: home
   title: Footer
 ---
-![](/static/img/footer.png)
+![](/content/images/footer.png)
 
 1. **Footer_background_color** لون خلفية الفوتر
 2.  **Footer_background_image** صورة خلفية الفوتر
 3. **add to footer wedgits** لاضافة عناصر الى الفوتر 
 
-![](/static/img/footercomponent.png)
+![](/content/images/footercomponent.png)
 
 ## **اضافة عناصر الى ال footer** 
 
