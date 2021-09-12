@@ -1438,6 +1438,10 @@ nav ul li a.active {
   margin-left: 0.25rem !important;
 }
 
+.ml-2 {
+  margin-left: 0.5rem !important;
+}
+
 .block {
   display: block !important;
 }
@@ -1519,6 +1523,10 @@ nav ul li a.active {
   --tw-scale-x: 1 !important;
   --tw-scale-y: 1 !important;
   transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.rotate-180 {
+  --tw-rotate: 180deg !important;
 }
 
 @-webkit-keyframes spin {
@@ -1857,6 +1865,11 @@ nav ul li a.active {
 .text-gray-100 {
   --tw-text-opacity: 1 !important;
   color: rgba(243, 244, 246, var(--tw-text-opacity)) !important;
+}
+
+.text-gray-300 {
+  --tw-text-opacity: 1 !important;
+  color: rgba(209, 213, 219, var(--tw-text-opacity)) !important;
 }
 
 .text-gray-400 {

@@ -1,7 +1,7 @@
 ---
 title: Main Colors
 date: Last Modified 
-permalink: /colors
+permalink: /colors/index.html
 eleventyNavigation:
   key: colors
   order: 1
@@ -9,11 +9,9 @@ eleventyNavigation:
   title: Main Colors.
 ---
 
-**عنوان الموقع والشعار الاساسي**
-![](/content/images/logo-siteTitle.png)
-1-من خيار options نجد خيارات الموقع الاساسية
-2- اضافة شعار الموقع 
-3- شعار الموقع على تاب المتصفح
+**ألوان الموقع الرئيسية والثانوية**
+![](/content/images/mainColors.png)
+
 
 ->*Onward...*<-
 
