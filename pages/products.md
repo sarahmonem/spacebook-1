@@ -5,6 +5,6 @@ permalink: /products/index.html
 eleventyNavigation:
   order: 2
   key: products
-  title: Products
+  title: Add Products
 ---
 Products
