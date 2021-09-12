@@ -13,7 +13,7 @@ eleventyNavigation:
 ![](/content/images/mainColors.png)
 
 
-->*Onward...*<-
+
 
 
 
