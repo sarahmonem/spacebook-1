@@ -5,6 +5,8 @@ permalink: /soicalmedia
 eleventyNavigation:
   order: 100
   key: socialmedia
+  parent: home
+  title: social Media
 ---
 **اضافة روابط مواقع التواصل الاجتماعي** 
 
