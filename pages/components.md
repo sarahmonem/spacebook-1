@@ -1,10 +1,9 @@
 ---
 title: components
-date: 2021-09-13T16:11:28.801Z
+date: 2021-09-13T16:13:13.722Z
 permalink: /components/index.html
 eleventyNavigation:
-  order: 0
   key: components
-  title: Page Components
+  order: 100
 ---
 Page Components
