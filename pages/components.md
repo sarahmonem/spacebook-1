@@ -5,5 +5,6 @@ permalink: /components/index.html
 eleventyNavigation:
   key: components
   order: 1
+  title: Components
 ---
 Page Components
