@@ -5,7 +5,7 @@ permalink: /pricing_table/index.html
 eleventyNavigation:
   order: 4
   key: pricing_table
-  parent: components
+  parent: page-components
   title: pricing_table
 ---
 pricing_table
