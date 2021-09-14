@@ -5,7 +5,7 @@ permalink: /text_icon_container/index.html
 eleventyNavigation:
   order: 1
   key: text_icon_container
-  parent: components
+  parent: page-components
   title: text_icon_container
 ---
 Text Icon Container \
