@@ -5,7 +5,7 @@ permalink: /section/index.html
 eleventyNavigation:
   order: 2
   key: section
-  parent: components
+  parent: page-components
   title: section
 ---
 section
