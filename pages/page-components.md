@@ -8,4 +8,8 @@ eleventyNavigation:
   parent: components
   title: Page Components
 ---
-اضافة عناصر الى الصفحة
+اضافة عناصر متنوعة الى الصفحة
+
+![](/static/img/page-components.png)
+
+يوجد عدد من العناصر المختلفة يمكن اضافتها كأقسام الى الصفحة , وسوف يتم شرح كل قسم وطريقة ادخال بياناته
