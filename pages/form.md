@@ -5,7 +5,7 @@ permalink: /form/index.html
 eleventyNavigation:
   order: 7
   key: form
-  parent: components
+  parent: page-components
   title: form
 ---
 form
