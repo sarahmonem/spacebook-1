@@ -5,7 +5,7 @@ permalink: /cards/index.html
 eleventyNavigation:
   order: 9
   key: cards
-  parent: comonents
+  parent: page-components
   title: cards
 ---
 cards
