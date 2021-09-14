@@ -8,4 +8,4 @@ eleventyNavigation:
   parent: components
   title: Page Components
 ---
-Page Components
+اضافة عناصر الى الصفحة
