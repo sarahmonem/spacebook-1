@@ -5,7 +5,7 @@ permalink: /image/index.html
 eleventyNavigation:
   order: 8
   key: image
-  parent: components
+  parent: page-components
   title: image
 ---
 image
