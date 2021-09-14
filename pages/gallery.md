@@ -5,7 +5,7 @@ permalink: /gallery/index.html
 eleventyNavigation:
   order: 10
   key: gallery
-  parent: components
+  parent: page-components
   title: gallery
 ---
 gallery
