@@ -7,4 +7,12 @@ eleventyNavigation:
   order: 1
   title: Components
 ---
-Page Components
+اضافة عناصر الى الصفحة 
+
+![](/static/img/components.png)
+
+يوجد ثلاث انواع من العناصر :
+
+1. page - عناصر متنوعة لصفحات الموقع
+2. products - عناصر متعلقة بالمنتج
+3. helper - عناصر مساعدة
