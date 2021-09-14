@@ -5,7 +5,7 @@ permalink: /cta/index.html
 eleventyNavigation:
   order: 4
   key: cta
-  parent: components
+  parent: page-components
   title: CTA
 ---
 CTA
