@@ -5,7 +5,7 @@ permalink: /social_media/index.html
 eleventyNavigation:
   order: 5
   key: social_media
-  parent: components
+  parent: page-components
   title: social_media
 ---
 social_media
