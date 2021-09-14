@@ -5,7 +5,7 @@ permalink: /faq_container/index.html
 eleventyNavigation:
   order: 3
   key: faq_container
-  parent: components
+  parent: page-components
   title: faq_container
 ---
 faq_container
