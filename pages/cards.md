@@ -13,3 +13,8 @@ eleventyNavigation:
 طريقة اضافة بيانات العنصر
 
 ![](/static/img/cards222.png)
+
+* title عنوان ال card 
+* subtitle العنوان الثانوي
+* cardlink رابط مخصص للكرت
+* ال title الاخير عبارة عند عنوان العنصر الرئيسي
