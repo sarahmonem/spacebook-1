@@ -8,4 +8,8 @@ eleventyNavigation:
   parent: page-components
   title: cards
 ---
-cards
+![](/static/img/cards.png)
+
+طريقة اضافة بيانات العنصر
+
+![](/static/img/cards222.png)
