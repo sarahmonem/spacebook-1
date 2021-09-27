@@ -9,3 +9,13 @@ eleventyNavigation:
   title: form
 ---
 form
+
+يتم اضافة فورم التواصل من ضمن العناصر بمجرد اضافته يظهر شكل الفورم
+
+
+
+![](/static/img/form.png)
+
+الشكل النهائي لفورم التواصل
+
+![](/static/img/form2.png)
