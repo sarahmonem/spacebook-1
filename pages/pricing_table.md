@@ -23,3 +23,16 @@ Pricing Table
 طريقة اضافة العناصر الى جدول الاسعار
 
 ![](/static/img/pricing-table.png)
+
+يوجد قالبين لجدول الاسعار 
+
+1. pricing_table
+
+   ![](/static/img/pricing-style-1.png)
+2. pricing_table2
+
+   ![](/static/img/pricing-style-1.png)
+
+   كما يمكن تغيير الوان قالب الاسعار من الوان بيضاء الى الوان داكنة عن طريق اختيار ال color , light or dark
+
+   كما فى الشكل الاول
