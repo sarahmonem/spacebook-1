@@ -8,4 +8,19 @@ eleventyNavigation:
   parent: page-components
   title: CTA
 ---
-CTA
+call to action section
+
+الشكل النهائي للعنصر
+
+![](/static/img/cta.png)
+
+طريقة اضافة مكونات العنصر 
+
+![](/static/img/cta.png)
+
+* العنوان الرئيسي title
+* العنوان الفرعي subtitle 
+* نص الزر button text
+* رابط الزر button link
+* لون الخلفية background color
+* صورة الخلفية background image
