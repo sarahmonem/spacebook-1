@@ -8,4 +8,6 @@ eleventyNavigation:
   parent: components
   title: Products Components
 ---
-Products Components
+اضافة منتج 
+
+![](/static/img/product.png)
