@@ -10,4 +10,4 @@ eleventyNavigation:
 ---
 gallery
 
-![](/static/img/gallery.png)
+![](/static/img/gallery1.png)
