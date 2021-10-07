@@ -9,3 +9,5 @@ eleventyNavigation:
   title: gallery
 ---
 gallery
+
+![](/static/img/gallery.png)
