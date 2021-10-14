@@ -8,4 +8,9 @@ eleventyNavigation:
   parent: components
   title: Helper
 ---
-Helper
+Helper\
+من خلال هذا العنصر يمكنك اضافة HTML code خاص 
+
+![](/static/img/helper.png)
+
+![](/static/img/helper2.png)
