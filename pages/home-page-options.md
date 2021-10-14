@@ -7,4 +7,12 @@ eleventyNavigation:
   key: home page options
   title: Home Page Options
 ---
-home page options
+خيارات الصفحة الرئيسية
+
+**اضافة الصفحة الرئيسية للموقع:**
+
+![](/static/img/add-homepage.png)
+
+* من Add New Home Page يتم اضافة صفحة رئيسية جديدة 
+
+![](/static/img/home-page-section.png)
