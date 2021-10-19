@@ -7,12 +7,42 @@ eleventyNavigation:
   key: home page options
   title: Home Page Options
 ---
-خيارات الصفحة الرئيسية
+خيارات الصفحة الرئيسية واضافة عناصر لها
 
 **اضافة الصفحة الرئيسية للموقع:**
 
-![](/static/img/add-homepage.png)
+
 
 * من Add New Home Page يتم اضافة صفحة رئيسية جديدة 
 
+![](/static/img/add-homepage.png)
+
+**خيارات ال banner :**
+
+**يمكن اضافة عناصر مختلفة الى ال banner  من add to banner**
+
 ![](/static/img/home-page-section.png)
+
+عناصر ال banner
+
+![](/static/img/bannercomponents.png)
+
+* **banner_cta** 
+
+![](/static/img/banner3.png)
+
+* **form**
+
+![](/static/img/banner5.png)
+
+الشكل النهائي
+
+![](/static/img/banner2.png)
+
+* **FAQs**
+
+![](/static/img/bannerfaqs.png)
+
+الشكل النهائي 
+
+![](/static/img/banner_form.png)
