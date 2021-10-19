@@ -46,3 +46,11 @@ eleventyNavigation:
 الشكل النهائي 
 
 ![](/static/img/banner_form.png)
+
+* **Image**
+
+![](/static/img/bannerimage.png)
+
+الشكل النهائي
+
+![](/static/img/imagebanner.png)
