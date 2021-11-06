@@ -11,8 +11,6 @@ eleventyNavigation:
 
 **اضافة الصفحة الرئيسية للموقع:**
 
-
-
 * من Add New Home Page يتم اضافة صفحة رئيسية جديدة 
 
 ![](/static/img/add-homepage.png)
@@ -54,3 +52,7 @@ eleventyNavigation:
 الشكل النهائي
 
 ![](/static/img/imagebanner.png)
+
+اضافة عناصر للصفحة
+
+![](/static/img/strapi-content-manager.png)
