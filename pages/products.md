@@ -7,4 +7,18 @@ eleventyNavigation:
   key: products
   title: Add Products
 ---
-Products
+Add New Products
+
+![](/static/img/add-new-pro.png)
+
+![](/static/img/singel-product.png)
+
+* Title : اسم المنتج
+* sub-title : عنوان فرعي للمنتج
+* content : تفاصيل المنتج
+* image : صورة المنتج الرئيسية
+* price: سعر المنتج
+* discounted-price: سعر المنتج المخفض
+* featured: تحديد المنتج ك منتج مميز
+* images: استوديو صور المنتج
+* product-categoreis : اضافة تصنيف الى المنتج
