@@ -1,5 +1,5 @@
 ---
-title: Website Options.
+title: Webosite Documentation.
 date: Last Modified 
 permalink: /
 eleventyNavigation:
