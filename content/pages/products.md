@@ -3,15 +3,15 @@ title: products
 date: 2021-09-12T20:07:16.785Z
 permalink: /products/index.html
 eleventyNavigation:
-  order: 4
+  order: 24
   key: products
   title: Add Products
 ---
 Add New Products
 
-![](/static/img/add-new-pro.png)
+![](/content/images/add-new-pro.png)
 
-![](/static/img/singel-product.png)
+![](/content/images/singel-product.png)
 
 * Title : اسم المنتج
 * sub-title : عنوان فرعي للمنتج

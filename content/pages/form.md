@@ -3,7 +3,7 @@ title: form
 date: 2021-09-13T17:09:06.235Z
 permalink: /form/index.html
 eleventyNavigation:
-  order: 7
+  order: 15
   key: form
   parent: page-components
   title: form
@@ -14,8 +14,8 @@ form
 
 
 
-![](/static/img/form.png)
+![](/content/images/form.png)
 
 الشكل النهائي لفورم التواصل
 
-![](/static/img/form2.png)
+![](/content/images/form2.png)

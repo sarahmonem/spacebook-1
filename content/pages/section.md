@@ -3,16 +3,16 @@ title: section
 date: 2021-09-13T17:01:27.259Z
 permalink: /section/index.html
 eleventyNavigation:
-  order: 2
+  order: 10
   key: section
   parent: page-components
   title: section
 ---
-![](/static/img/section.png)
+![](/content/images/section.png)
 
 يتكون ال section من عمودين , عمود يحتوي على النص وعمود يحتوى على الصورة 
 
-![](/static/img/section-text.png)
+![](/content/images/section-text.png)
 
 1. **Title**  العنوان الرئيسي للقسم
 2.  **sub_title** العنوان الثانوي

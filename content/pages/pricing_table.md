@@ -3,7 +3,7 @@ title: pricing_table
 date: 2021-09-13T17:07:17.744Z
 permalink: /pricing_table/
 eleventyNavigation:
-  order: 4
+  order: 14
   key: pricing_table
   parent: page-components
   title: pricing_table
@@ -12,7 +12,7 @@ Pricing Table
 
 الشكل النهائي للعنصر
 
-![](/static/img/pricingtable.png)
+![](/content/images/pricingtable.png)
 
 توجد ثلاث اشكال جدول الاسعار كما موضح ف الصورة السابقة 
 
