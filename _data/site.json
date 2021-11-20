@@ -17,5 +17,5 @@
   "enableContact": false,
   "navigationStyle": "vertical",
   "enableNetlifyCMS": true,
-  "enableEditButton": true
+  "enableEditButton": false
 }
