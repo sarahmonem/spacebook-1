@@ -1,7 +1,7 @@
 {
   "enableGithubLink": true,
   "githubBranch": "main",
-  "emoji": "💥",
+  "emoji": "../content/images/logo-4-1.png",
   "enableEncryption": false,
   "enablePageNavigation": true,
   "enableSearch": false,
