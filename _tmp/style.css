@@ -1996,6 +1996,14 @@ nav ul li a.active {
   transition-duration: 200ms !important;
 }
 
+#main{
+  direction: rtl;
+}
+
+.footer-nav{
+  direction: ltr;
+}
+
 @media (min-width: 640px) {
   .sm\:prose {
     color: #374151;
